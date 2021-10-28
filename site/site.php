@@ -1,3 +1,10 @@
-<?php
-
-?>
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+		<section>
+			<p>Hola</p>
+		</section>
+	</body>
+</html>
